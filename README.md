@@ -1,1 +1,1 @@
-This is a repository for a algorithmic trading bot developed by Tarun Prasad
+This is a repository for an algorithmic trading bot developed by Tarun Prasad
